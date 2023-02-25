@@ -1,0 +1,17 @@
+{
+  "name": "team-profile-gen-12",
+  "version": "1.0.0",
+  "description": "a team generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "rpd",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  },
+  "dependencies": {
+    "inquirer": "^6.5.0"
+  }
+}
